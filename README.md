@@ -1,25 +1,15 @@
-# Hi there, I'm Sulthon! 👋
+# Introduction
 
+Hello Rek!
 
-<!-- ## 🚀 About Me -->
-<!-- I'm a ...
+Let me introduce myself, **Sulthon**, a student at the Faculty of Computer Science, Universitas Brawijaya, with a strong enthusiasm for the latest technologies. Currently, I am on a journey to explore the technologies that interest me.
 
+## About Me
 
-## 🔗 Links -->
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sulthonaw.github.io/)
+- **Name**: Sulthon Aulia Wijaya
+- **Fun Facts**: Ubur ubur ikan lele
+- **Interests**: Technology, software development, and digital innovation
 
+I enjoy learning about various topics, ranging from software development to artificial intelligence. Throughout my journey, I aim to keep growing and exploring what I can achieve.
 
-<!--
-**sulthonaw/sulthonaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for visiting my profile. I look forward to sharing knowledge and experiences!
