@@ -10,4 +10,3 @@ _Thank you for visiting my profile. I look forward to sharing knowledge and expe
 
 ![sulthonaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulthonaw&show_icons=true&theme=tokyonight)
 
-_**📒 Ubur-ubur ikan lele 🦇 C for CODING lee.**_
